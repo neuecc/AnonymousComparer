@@ -9,7 +9,7 @@ How To Use
 ---
 var comparer = AnonymousComparer.Create(compareKeySelector) or use added Standard Query Operator's Extension Methods.
 
-* Available in NuGet [url:Install-Package AnonymousComparer|http://nuget.org/List/Packages/AnonymousComparer]
+* Available in NuGet [Install-Package AnonymousComparer](http://nuget.org/List/Packages/AnonymousComparer)
 
 Example
 ---
